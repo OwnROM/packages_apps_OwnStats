@@ -63,6 +63,6 @@
   <string name="pref_info_about">Haqqında</string>
   <string name="pref_info_changelog">Dəyişiklik qeydləri</string>
   <string name="pref_info_changelog_desc">Dəyişiklik qeydlərini göstər</string>
-  <string name="pref_info_website">Google+</string>
-  <string name="pref_info_website_url">https://plus.google.com/u/0/communities/109352646351468373340</string>
+  <string name="pref_info_website">Stats Example</string>
+  <string name="pref_info_website_url">https://own-rom.sourceforge.io/romstats/stats.php</string>
 </resources>

@@ -2,7 +2,7 @@ package android.romstats;
 
 public class Const {
 
-	public static final String TAG = "ResurrectionStats";
+	public static final String TAG = "OwnStats";
 
 	public static final String ANONYMOUS_OPT_IN = "pref_anonymous_opt_in";
 	public static final String ANONYMOUS_OPT_OUT_PERSIST = "pref_anonymous_opt_out_persist";
@@ -14,8 +14,8 @@ public class Const {
 	public static final int ROMSTATS_REPORTING_MODE_NEW = 0; // new CM10.1: no user prompt, default TRUE, first time after tframe
 	public static final int ROMSTATS_REPORTING_MODE_OLD = 1; // old CM10  : user prompt, default FALSE, first time immediately
 
-	public static final String STATS_URL = "https://resurrectionremix.sourceforge.io";
-	public static final String RR_VERSION = "5.8.3";
-	public static final String ROMNAME = "ResurrectionRemix";
+	public static final String STATS_URL = "https://own-rom.sourceforge.io/romstats/stats.php";
+	public static final String OWN_VERSION = "ro.romstats.version";
+	public static final String ROMNAME = "OwnROM";
 	public static final int TIMEFRAME = 1;
 }

@@ -62,6 +62,6 @@
   <string name="pref_info_about">О статистике</string>
   <string name="pref_info_changelog">Список изменений</string>
   <string name="pref_info_changelog_desc">Показать список изменений</string>
-  <string name="pref_info_website">Google+</string>
-  <string name="pref_info_website_url">https://plus.google.com/u/0/communities/109352646351468373340</string>
+  <string name="pref_info_website">Stats Example</string>
+  <string name="pref_info_website_url">https://own-rom.sourceforge.io/romstats/stats.php</string>
 </resources>

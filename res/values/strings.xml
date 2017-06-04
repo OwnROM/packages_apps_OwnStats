@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name" translatable="false">RR Stats</string>
+    <string name="app_name" translatable="false">OwnStats</string>
 
     <!-- Main -->
     <string name="main_title">Anonymous Usage Data</string>
@@ -75,7 +75,7 @@
     <string name="pref_info_about">About</string>
     <string name="pref_info_changelog">Change log</string>
     <string name="pref_info_changelog_desc">Show the change log</string>
-    <string name="pref_info_website">Google+</string>
-    <string name="pref_info_website_url">https://plus.google.com/u/0/communities/109352646351468373340</string>
+    <string name="pref_info_website">Stats Example</string>
+    <string name="pref_info_website_url">https://own-rom.sourceforge.io/romstats/stats.php</string>
 
 </resources>

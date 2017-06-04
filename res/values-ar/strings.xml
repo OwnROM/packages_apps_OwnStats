@@ -65,6 +65,6 @@
   <string name="pref_info_about">عن</string>
   <string name="pref_info_changelog">سجل التغييرات</string>
   <string name="pref_info_changelog_desc">إظهار سجل التغيير</string>
-  <string name="pref_info_website">غوغل بلس</string>
-  <string name="pref_info_website_url">https://plus.google.com/u/0/communities/109352646351468373340</string>
+  <string name="pref_info_website">Stats Example</string>
+  <string name="pref_info_website_url">https://own-rom.sourceforge.io/romstats/stats.php</string>
 </resources>
