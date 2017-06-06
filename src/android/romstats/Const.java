@@ -1,5 +1,7 @@
 package android.romstats;
 
+import android.os.SystemProperties;
+
 public class Const {
 
 	public static final String TAG = "OwnStats";
@@ -15,7 +17,7 @@ public class Const {
 	public static final int ROMSTATS_REPORTING_MODE_OLD = 1; // old CM10  : user prompt, default FALSE, first time immediately
 
 	public static final String STATS_URL = "https://own-rom.sourceforge.io/romstats/";
-	public static final String OWN_VERSION = "ro.romstats.version";
+	public static final String OWN_VERSION = SystemProperties.get("ro.romstats.version");
 	public static final String ROMNAME = "OwnROM";
 	public static final int TIMEFRAME = 1;
 }
