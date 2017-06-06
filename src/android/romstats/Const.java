@@ -14,7 +14,7 @@ public class Const {
 	public static final int ROMSTATS_REPORTING_MODE_NEW = 0; // new CM10.1: no user prompt, default TRUE, first time after tframe
 	public static final int ROMSTATS_REPORTING_MODE_OLD = 1; // old CM10  : user prompt, default FALSE, first time immediately
 
-	public static final String STATS_URL = "https://own-rom.sourceforge.io/romstats/stats.php";
+	public static final String STATS_URL = "https://own-rom.sourceforge.io/romstats/";
 	public static final String OWN_VERSION = "ro.romstats.version";
 	public static final String ROMNAME = "OwnROM";
 	public static final int TIMEFRAME = 1;
